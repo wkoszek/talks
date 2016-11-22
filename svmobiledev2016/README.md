@@ -14,7 +14,7 @@ out to be your flashlight.
 
 ## Agenda and slides:
 
-- 
+- https://github.com/wkoszek/talks/tree/master/svmobiledev2016
 
 ## References
 
