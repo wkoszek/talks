@@ -10,7 +10,8 @@ solo-developer deals with time/feature constraints, which tools I've used
 and what my approach towards development in this mode is.
 In other words: I'll tell you what I did to stay sane.
 If the iOS development were a walk in a dark city park, this talk may turn
-out to be your flashlight.
+out to be your flashlight. If you like it, star it at GitHub:
+https://github.com/wkoszek/sensorama-ios
 
 ## Agenda and slides:
 
