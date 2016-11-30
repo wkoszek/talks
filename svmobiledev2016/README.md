@@ -15,7 +15,11 @@ If the iOS development were a walk in a dark city park, this talk may turn
 out to be your flashlight. If you like it, star it at GitHub:
 https://github.com/wkoszek/sensorama-ios
 
-## Agenda and slides:
+## Agenda
+
+- https://www.meetup.com/svmobiledev/events/235836893/
+
+## Materials
 
 - https://github.com/wkoszek/talks/tree/master/svmobiledev2016
 
