@@ -23,6 +23,11 @@ https://github.com/wkoszek/sensorama-ios
 
 - https://github.com/wkoszek/talks/tree/master/svmobiledev2016
 
+#### Some links from the slides
+
+- **Fake it till you make it presentation** https://developer.apple.com/videos/play/wwdc2014/223
+- **Designing for Future Hardware** https://developer.apple.com/videos/play/wwdc2015/801/
+
 ## References
 
 - WWW: http://www.sensorama.org
