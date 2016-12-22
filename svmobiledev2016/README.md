@@ -19,6 +19,13 @@ https://github.com/wkoszek/sensorama-ios
 
 - https://www.meetup.com/svmobiledev/events/235836893/
 
+## Video
+
+We have recorded the video from this event.
+
+- **Part 1**: https://www.youtube.com/watch?v=gE49zGSFcio
+- **Part 2**: https://www.youtube.com/watch?v=zY6YDXyF6ks
+
 ## Materials
 
 - https://github.com/wkoszek/talks/tree/master/svmobiledev2016
