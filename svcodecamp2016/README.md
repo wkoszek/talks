@@ -13,7 +13,7 @@ learning curve, but I found that it's the best way to learn as an engineer.
 After this talk I hope you'll see how leaving your mark in your favorite
 tools can be useful and fulfilling.
 
-## Silicon Valley 2016 Code Camp session**
+## Silicon Valley 2016 Code Camp session
 
 	Evergreen Valley College
 	3095 Yerba Buena Rd
