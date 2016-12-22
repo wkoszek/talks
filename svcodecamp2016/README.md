@@ -21,9 +21,9 @@ tools can be useful and fulfilling.
 
 ## References
 
-Event website: https://www.siliconvalley-codecamp.com
-Talk webpage: https://www.siliconvalley-codecamp.com/Session/2016/how-to-contribute-back-to-open-source
-Materials: https://github.com/wkoszek/talks/tree/master/svcodecamp2016
+- Event website: https://www.siliconvalley-codecamp.com
+- Talk webpage: https://www.siliconvalley-codecamp.com/Session/2016/how-to-contribute-back-to-open-source
+- Materials: https://github.com/wkoszek/talks/tree/master/svcodecamp2016
 
 ## Author
 
