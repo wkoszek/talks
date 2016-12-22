@@ -1,6 +1,6 @@
 # Building an Open Source iOS app: lessons learned
 
-**Dec 12, 2016, Hacker Dojo (Mountain View), 6pm**
+**Dec 12, 2016, Hacker Dojo (Santa Clara), 6pm**
 
 In this talk I'm going to talk about lessons learned from building Sensorama
 (http://www.sensorama.org), an Open Source sensor platform for data science.
